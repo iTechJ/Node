@@ -1,0 +1,1 @@
+global.ANSWER = 42;
